@@ -3,3 +3,5 @@ The lines start with a tage regarding what value they aare: IMU, FAST poe or SLO
 The timestamp follows after that. Then the values for variables like position, orientation, sensor biases and velocity follow.
 
 The training code is present in the notebook file.
+
+client_recovery_server.py contains the Python sidecar runtime server for the cleint side for runtime detection and recovery.
